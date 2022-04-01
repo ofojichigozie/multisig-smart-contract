@@ -1,0 +1,25 @@
+{
+  "name": "multisig-smart-contract",
+  "version": "1.0.0",
+  "description": "A 2/3 Multisignature Wallet Smart Contract",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Chigozie Ofoji",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "ethers": "^5.5.2",
+    "truffle-plugin-verify": "^0.5.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
